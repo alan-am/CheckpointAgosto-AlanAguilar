@@ -1,0 +1,5 @@
+-3 ejemplos de memoria principal
+
+1.- Memoria RAM
+2.- Memoria ROM
+2.- Memoria Cache
