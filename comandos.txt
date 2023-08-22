@@ -1,2 +1,37 @@
 //COMANDOS UTILIZADOS//
 
+  299  mkdir CheckpointAgosto-AlanAguilar
+  300  cd CheckpointAgosto-AlanAguilar
+  301  git remote add origin https://github.com/alan-am/CheckpointAgosto-AlanAguilar.git
+  302  git init
+  303  git remote add origin https://github.com/alan-am/CheckpointAgosto-AlanAguilar.git
+  304  git remote -v
+  305  touch main.js index.html
+  306  git add .
+  307  git status
+  308  git commit -m "commit 01 de Alan Aguilar"
+  309  git push origin main
+  310  git branch feature
+  311  git checkout feature
+  312  mkdir Hardware Software SeguridadInformatica
+  313  cd Hardware && touch resumen.txt
+  314  cd .. && cd Software && touch resumen.txt
+  315  cd .. && cd SeguridadInformatica && touch resumen.txt
+  316  git status
+  317  git add .
+  318  git status
+  319  cd ..
+  320  git add .
+  321  git status
+  322  git commit -m "commit 02 de Alan Aguilar"
+  323  git push origin feature
+  324  git checkout main
+  325  mv ./main.js ./resumenHardware.txt
+  326  mv ./index.html ./resumenSoftware.txt
+  327  touch comandos.txt
+  328  history
+  329  git status
+  330  git add .
+  331  git commit -m "commit 03 de Alan Aguilar"
+  332  git push origin main
+  333  history
